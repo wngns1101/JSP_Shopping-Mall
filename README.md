@@ -1,1 +1,1 @@
-# jsp_project-shooping-mall-
+# jsp_project-shopping-mall-
